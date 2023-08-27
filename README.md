@@ -10,8 +10,9 @@ qmake
 make
 ```
 To run on feng-linux / feng-gps ( must has a GUI):
-
-./sparrow_loopsubdivision  ./path_to/model.diredgenormal
+```bash
+  ./LoopSubdivision  ./path_to/model.diredgenormal
+```
 
 ### CMake
 Cmake Support Qt6 upper version.
